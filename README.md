@@ -1,4 +1,5 @@
-# stock-sentiment-analysis
+# Trending the unpredictable Stock Market
+# Abstract
 
 Market sentiment is usually one of the key factors that influence market movements today. While fundamental analysis focuses on determining a financial product’s fair market value, market sentiment and technical analysis focus on analyzing historical statistical trends and crowd psychology to evaluate the strength of a firm. Specifically, news and online chatter drive the short-term price momentum as they project investors’ attitude toward a particular firm and ultimately, affecting the price of the stock. In our project, we investigate if adding sentiment analysis-in the form of news headlines-alongside key technical indicators to trading models will produce more accurate predictions on the direction of the market.
 
