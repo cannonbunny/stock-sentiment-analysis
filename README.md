@@ -13,7 +13,7 @@ Pre_trained_Model.ipynb<br />
 <br />
 Data gathing and cleaning<br />
 news_to_sentiment.ipynb<br />
-stock_dataset.ipynb<br />
+stock_dataset.ipynb (requirements: pandas_datareader, yfinance)<br />
 <br />
 Datasets<br />
 .csv files from data cleaning<br />
