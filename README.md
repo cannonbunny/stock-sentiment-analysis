@@ -5,20 +5,20 @@ Market sentiment is usually one of the key factors that influence market movemen
 # Note:
 Most of our files were run on Google Colab as it is easier to code collaboratively. Below please find a break down of our files.
 
-Models creation, training and results plotting
-BoW_model.ipynb
-GRU_model.ipynb
-Pre_trained_Model.ipynb
-
-Data gathing and cleaning
-news_to_sentiment.ipynb
-stock_dataset.ipynb
-
-Datasets
-.csv files from data cleaning
-
-Backup folder for ipynb files
-.py files to run locally
+Models creation, training and results plotting:<br />
+BoW_model.ipynb<br />
+GRU_model.ipynb<br />
+Pre_trained_Model.ipynb<br />
+<br />
+Data gathing and cleaning<br />
+news_to_sentiment.ipynb<br />
+stock_dataset.ipynb<br />
+<br />
+Datasets<br />
+.csv files from data cleaning<br />
+<br />
+Backup folder for ipynb files<br />
+.py files to run locally<br />
 
 
 
